@@ -3,8 +3,8 @@
 - Studying Information Technology at Haaga-Helia. 
 - Specializing in IT-Infrastructure, Networks and Cyber Security. 
 - Currently doing deepdive into Kubernetes & OpenShift.
-
-- [Courses](https://github.com/gianglex/Courses). You can check some of my current and past course reports (in Finnish)
+- [H-T8](https://askdatdude.github.io/H-T8/). I am on the board of H-T8, an Ethical Hacking Club for students. 
+- [Courses](https://github.com/gianglex/Courses). You can check some of my current and past course reports (in Finnish). 
 - [Write-ups](https://github.com/gianglex/Write-ups). Some of the Write-ups I've done for CTFs and other things. 
 
 
