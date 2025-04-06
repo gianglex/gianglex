@@ -1,4 +1,9 @@
-## Hi there 👋
+## $whoami
+
+- Studying Information Technology at Haaga-Helia. 
+- Specializing in IT-Infrastructure, Networks and Cyber Security. 
+- Currently doing deepdive into Kubernetes & OpenShift. 
+
 
 <!--
 **gianglex/gianglex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
